@@ -2,8 +2,10 @@
 
 💻 **About Me** 
 
-- Data Analyst working with Python, SQL, Excel & Tableau.
 - Professional Background: Quality Engineering & AS9100 Quality Systems Management within the aerospace industry.
+- Data analysis skillset: Python, SQL, Excel & Tableau. 
+- Metrics driven: Analyze performance metrics & uncover root cause, trends & anomolies.
+- Continuous Improvement: Review data and implement improvement projects to address process bottlenecks. 
 
 
 📊 **Data Analysis Projects** 

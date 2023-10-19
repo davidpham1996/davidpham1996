@@ -13,5 +13,4 @@ I am a data analyst working with Python, SQL, Excel & Tableau.
 ✉️ **Let's keep in touch!** 
 
 Email: [(davidpham0996@gmail.com])(`<br>`)
-
 Linkedin: [(https://www.linkedin.com/in/davidpham96/)]

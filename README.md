@@ -9,7 +9,7 @@
 
 📊 **Data Analysis Projects** 
 
-- [Python Anaylsis: International Video Game Sales](https://github.com/davidpham1996/Video-Game-Sales)
+- [Python Analysis: International Video Game Sales](https://github.com/davidpham1996/Video-Game-Sales)
 - [SQL Customer Order Analytics](https://github.com/davidpham1996/SQL-Customer-Order-Analytics)
 - [Cookie Sales - Power Pivot Dashboard](https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project)
 

@@ -11,7 +11,6 @@ I am a data analyst working with Python, SQL, Excel & Tableau.
 - [Cookie Sales - Power Pivot Dashboard](https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project)
 
 📈 **Tableau** 
-
 - [Tableau Public Portfolio](https://public.tableau.com/app/profile/david.pham5201/vizzes)
 
 ✉️ **Let's keep in touch!** 

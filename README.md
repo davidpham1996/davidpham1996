@@ -3,7 +3,7 @@
 💻 **About Me** 
 
 - Professional Background: Quality Engineering & AS9100 Quality Systems Management within the aerospace industry.
-- Metrics driven: Analyze performance metrics to uncover root cause, trends & anomolies.
+- Metrics driven: Manage & transform data pipelines, analyzing performance metrics to uncover root cause, trends & anomolies.
 - Continuous Improvement: Review data and implement improvement projects to address process bottlenecks. 
 - Data analysis skillset: Python, SQL, Excel & Tableau. 
 

@@ -4,7 +4,7 @@
 
 - Data Analyst working with Python, SQL, Excel & Tableau.
 - Professional Background: Quality Engineering & AS9100 Quality Systems Management within the aerospace industry.
-- 
+
 
 📊 **Data Analysis Projects** 
 
@@ -18,5 +18,5 @@
 - [Air BnB Dashboard](https://public.tableau.com/app/profile/david.pham5201/viz/AirBnBDashboard_16976791250410/Dashboard1)
 
 ✉️ **Let's keep in touch!** 
-- [Email](davidpham0996@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/davidpham96/)
+- Email: davidpham0996@gmail.com

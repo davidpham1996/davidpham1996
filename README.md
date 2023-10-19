@@ -2,7 +2,9 @@
 
 💻 **About Me** 
 
-I am a data analyst working with Python, SQL, Excel & Tableau.
+- Data Analyst working with Python, SQL, Excel & Tableau.
+- Professional Background: Quality Engineering & AS9100 Quality Systems Management within the aerospace industry.
+- 
 
 📊 **Data Analysis Projects** 
 
@@ -12,6 +14,8 @@ I am a data analyst working with Python, SQL, Excel & Tableau.
 
 📈 **Tableau** 
 - [Tableau Public Portfolio](https://public.tableau.com/app/profile/david.pham5201/vizzes)
+- [Superstore Sales Performance Dashboard (https://public.tableau.com/app/profile/david.pham5201/viz/SuperstoreSalesPerformanceDashboard_16976793156430/Dashboard1)
+- [Air BnB Dashboard](https://public.tableau.com/app/profile/david.pham5201/viz/AirBnBDashboard_16976791250410/Dashboard1)
 
 ✉️ **Let's keep in touch!** 
 - [Email](davidpham0996@gmail.com)

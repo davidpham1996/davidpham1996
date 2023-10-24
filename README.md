@@ -7,11 +7,11 @@
 - Continuous Improvement: Review data and implement improvement projects to address process bottlenecks. 
 - Data analysis skillset:
 
-  Programming: Python, SQL
+  **Programming:** Python, SQL
 
-  BI Reporting: Tableau, PowerPivot, Excel
+  **BI Reporting:** Tableau, PowerPivot, Excel
 
-  ETL: Power Query 
+  **ETL:** Power Query 
 
 📊 **Data Analysis Projects** 
 

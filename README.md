@@ -9,18 +9,18 @@
 
 📊 **Data Analysis Projects** 
 
-  **Python:** 
+**Python:** 
 
 - [Python Analysis: International Video Game Sales](https://github.com/davidpham1996/Video-Game-Sales)
 - [Python Product Sales Analysis](https://github.com/davidpham1996/product_sales)
 
-  **SQL:**
+**SQL:**
   
 - [SQL Iphone Product Data Analytics](https://github.com/davidpham1996/Iphone-Analysis/blob/main/iphone_eda)
 - [SQL Bank Customer Churn Trends](https://github.com/davidpham1996/CustomerChurnRate/blob/main/CustomerChurn) 
 - [SQL Customer Order Analytics](https://github.com/davidpham1996/SQL-Customer-Order-Analytics)
 
-  **Excel:**
+**Excel:**
   
 - [Excel Power Pivot Dashboard - Sales Performance](https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project)
 - [Excel Health Code Pareto Analysis](https://github.com/davidpham1996/Health-Analytics/blob/main/Health%20Code%20Pareto%20Analysis.pdf)

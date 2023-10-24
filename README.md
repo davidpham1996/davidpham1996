@@ -18,7 +18,7 @@
   
 - [SQL Iphone Product Data Analytics](https://github.com/davidpham1996/Iphone-Analysis/blob/main/iphone_eda)
 - [SQL Bank Customer Churn Trends](https://github.com/davidpham1996/CustomerChurnRate/blob/main/CustomerChurn) 
-- [SQL Customer Order Analytics](https://github.com/davidpham1996/SQL-Customer-Order-Analytics)
+- [SQL Customer Order Analytics]([https://github.com/davidpham1996/SQL-Customer-Order-Analytics](https://github.com/davidpham1996/SQL-Customer-Order-Analytics/blob/main/SQL%20Analysis%20Project:%20Customer%20%26%20Order%20Analytics))
 
 **Excel:**
   

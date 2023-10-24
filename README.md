@@ -5,14 +5,8 @@
 - Professional Background: Quality Engineering & AS9100 Quality Systems Management within the aerospace industry.
 - Metrics driven: Manage & transform data pipelines, analyzing performance metrics to uncover root cause, trends & anomolies.
 - Continuous Improvement: Review data and implement improvement projects to address process bottlenecks. 
-- Data analysis skillset:
-
-  **Programming:** Python, SQL
-
-  **BI Reporting:** Tableau, PowerPivot, Excel
-
-  **ETL:** Power Query 
-
+- Data analysis skillset: Python, SQL, Tableau, Excel (PowerQuery, PowerPivot).
+  
 📊 **Data Analysis Projects** 
 
 **Python:** 

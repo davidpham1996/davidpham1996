@@ -11,8 +11,8 @@
 
 - [Python Analysis: International Video Game Sales](https://github.com/davidpham1996/Video-Game-Sales)
 - [SQL Customer Order Analytics](https://github.com/davidpham1996/SQL-Customer-Order-Analytics)
-- [Cookie Sales - Power Pivot Dashboard](https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project)
-- [Health Code Pareto Analysis](https://github.com/davidpham1996/Health-Analytics/blob/main/Health%20Code%20Pareto%20Analysis.pdf)
+- [Excel Power Pivot Dashboard - Sales Performance](https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project)
+- [Excel Health Code Pareto Analysis](https://github.com/davidpham1996/Health-Analytics/blob/main/Health%20Code%20Pareto%20Analysis.pdf)
 
 📈 **Tableau** 
 - [Tableau Public Portfolio](https://public.tableau.com/app/profile/david.pham5201/vizzes)

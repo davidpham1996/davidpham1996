@@ -11,19 +11,19 @@
 
 **Python:** 
 
-- [Python Analysis: International Video Game Sales](https://github.com/davidpham1996/Video-Game-Sales)
-- [Python Product Sales Analysis](https://github.com/davidpham1996/product_sales)
+- [International Video Game Sales](https://github.com/davidpham1996/Video-Game-Sales)
+- [Product Sales Analysis](https://github.com/davidpham1996/product_sales)
 
 **SQL:**
   
-- [SQL Iphone Product Data Analytics](https://github.com/davidpham1996/Iphone-Analysis/blob/main/iphone_eda)
-- [SQL Bank Customer Churn Trends](https://github.com/davidpham1996/CustomerChurnRate/blob/main/CustomerChurn) 
-- [SQL Customer Order Analytics](https://github.com/davidpham1996/SQL-Customer-Order-Analytics/blob/main/SQL%20Analysis%20Project:%20Customer%20%26%20Order%20Analytics)
+- [Iphone Product Data Analytics](https://github.com/davidpham1996/Iphone-Analysis/blob/main/iphone_eda)
+- [Bank Customer Churn Trends](https://github.com/davidpham1996/CustomerChurnRate/blob/main/CustomerChurn) 
+- [Customer Order Analytics](https://github.com/davidpham1996/SQL-Customer-Order-Analytics/blob/main/SQL%20Analysis%20Project:%20Customer%20%26%20Order%20Analytics)
   
 **Excel:**
   
-- [Excel Power Pivot Dashboard - Sales Performance](https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project)
-- [Excel Health Code Pareto Analysis](https://github.com/davidpham1996/Health-Analytics/blob/main/Health%20Code%20Pareto%20Analysis.pdf)
+- [Power Pivot Dashboard - Sales Performance](https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project)
+- [Health Code Pareto Analysis](https://github.com/davidpham1996/Health-Analytics/blob/main/Health%20Code%20Pareto%20Analysis.pdf)
 
 📈 **Tableau Public Portfolio** 
 - [Tableau Public Portfolio](https://public.tableau.com/app/profile/david.pham5201/vizzes)

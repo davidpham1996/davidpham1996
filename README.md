@@ -6,8 +6,11 @@
 - Metrics driven: Manage & transform data pipelines, analyzing performance metrics to uncover root cause, trends & anomolies.
 - Continuous Improvement: Review data and implement improvement projects to address process bottlenecks. 
 - Data analysis skillset:
+
   Programming: Python, SQL
+
   BI Reporting: Tableau, PowerPivot, Excel
+
   ETL: Power Query 
 
 📊 **Data Analysis Projects** 

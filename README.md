@@ -11,6 +11,7 @@
 
 - [Python Analysis: International Video Game Sales](https://github.com/davidpham1996/Video-Game-Sales)
 - [SQL Customer Order Analytics](https://github.com/davidpham1996/SQL-Customer-Order-Analytics)
+- [SQL Exploratory Analytics: Iphone Product Data](https://github.com/davidpham1996/Iphone-Analysis/blob/main/iphone_eda)
 - [Excel Power Pivot Dashboard - Sales Performance](https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project)
 - [Excel Health Code Pareto Analysis](https://github.com/davidpham1996/Health-Analytics/blob/main/Health%20Code%20Pareto%20Analysis.pdf)
 

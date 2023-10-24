@@ -11,6 +11,7 @@
 
 **Python:** 
 
+- [E-commerce Linear Regression Model](https://github.com/davidpham1996/E-Commerce-Linear-Regression)
 - [International Video Game Sales](https://github.com/davidpham1996/Video-Game-Sales)
 - [Product Sales Analysis](https://github.com/davidpham1996/product_sales)
 

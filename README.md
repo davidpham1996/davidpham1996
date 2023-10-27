@@ -27,7 +27,7 @@
 - [Health Code Pareto Analysis](https://github.com/davidpham1996/Health-Analytics/blob/main/Health%20Code%20Pareto%20Analysis.pdf)
 
 📈 **[Tableau Public Portfolio](https://public.tableau.com/app/profile/david.pham5201/vizzes)** 
-- [Case Study: Organization Delivery and Product Return Performance](https://public.tableau.com/app/profile/david.pham5201/viz/ProductReturnCaseStudy/PerformanceMetricsPresentation)
+- [Case Study: Organization Operations Performance](https://public.tableau.com/app/profile/david.pham5201/viz/ProductReturnCaseStudy/PerformanceMetricsPresentation)
 - [Superstore Sales Performance Dashboard](https://public.tableau.com/app/profile/david.pham5201/viz/SuperstoreSalesPerformanceDashboard_16976793156430/Dashboard1)
 - [Air BnB Dashboard](https://public.tableau.com/app/profile/david.pham5201/viz/AirBnBDashboard_16976791250410/Dashboard1)
 - [Housing Sales Dashboard](https://public.tableau.com/app/profile/david.pham5201/viz/KingCountyHouseSales_16980222818870/KingCountyHouseSales?publish=yes)

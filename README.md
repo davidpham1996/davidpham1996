@@ -10,9 +10,9 @@
 📊 **Data Analysis Projects** 
 
 **SQL:**
-  
-- [Iphone Product Data Analytics](https://github.com/davidpham1996/Iphone-Analysis/blob/main/iphone_eda)
+
 - [Bank Customer Churn Trends](https://github.com/davidpham1996/CustomerChurnRate/blob/main/CustomerChurn) 
+- [Iphone Product Data Analytics](https://github.com/davidpham1996/Iphone-Analysis/blob/main/iphone_eda)
 - [Customer Order Analytics](https://github.com/davidpham1996/SQL-Customer-Order-Analytics/blob/main/SQL%20Analysis%20Project:%20Customer%20%26%20Order%20Analytics)
 
 **Python:** 
